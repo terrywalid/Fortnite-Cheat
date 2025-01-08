@@ -1,4 +1,5 @@
 # Fortnite-Cheat by Terrywalid
+
 A Free (Hidden) Open-Source Cheat - Includes Anti Cheat Bypass - Aimbot, ESP &amp; more!
 
 ![834477145_FortniteCheats webp 81e6f8f9d76e9e146ee0c5e0aca78e0e](https://github.com/user-attachments/assets/50111432-9681-467b-ad1e-25cd3edc6087)
@@ -36,21 +37,25 @@ MISC Features
 
 # Showcase
 
+
+https://github.com/user-attachments/assets/17398a77-c5c7-4828-8bb7-de429c6c6d9b
+
+
 # FAQ
 
-How to download ?
+# How to download ?
 
-Pre-Compiled:
+Pre-Compiled: https://github.com/terrywalid/Fortnite-Cheat/releases/tag/v.1.3.0
 
-How do I add a hitmarker sound?
+# How do I add a hitmarker sound?
 
 Create a hitsounds folder inside the base Fortnite directory. Place as many .mp4 sound files as you want inside of it. Load the cheat and they will be under the hitsounds combobox.
 
-Where are config files stored?
+# Where are config files stored?
 
 You can choose the base Fortnite directory in the settings.
 
-How do I unload the cheat?
+# How do I unload the cheat?
 
 Press END.
 
